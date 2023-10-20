@@ -1,0 +1,10 @@
+copier les répertoires:
+
+binarytree
+et
+binarytree-5.1.0.dist-info
+
+dans
+
+C:\EduPython3\App\Lib\site-packages
+
