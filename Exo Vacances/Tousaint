@@ -1,0 +1,13 @@
+1a)En utilisant l’extrait de la table de routage de R1 , R1 envoie le paquet vers R2 , car l’adresse de la Paserelle est similaire a celle de la table de routage
+
+b)L1 -> R1 -> R2 -> R6 -> L2
+
+2a)L1 -> R1 -> R3 -> R2 -> R6 -> L2
+
+b)Ligne 1 et Ligne 3
+
+3a)10
+
+b)L1 -> R1 -> R2 -> R4 -> R5 -> R6 -> L2
+
+c)Ligne 2 et Ligne 4 
