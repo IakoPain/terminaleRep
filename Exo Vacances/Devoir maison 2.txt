@@ -1,0 +1,39 @@
+Exercice 1:
+
+1a) 192.168.128.131
+
+1b) 2^8-2 = 254
+
+2a)B , C ,  D
+
+2b)Routage 2 .png
+
+3)%%%% | %%%% |   1  | %%%%
+  %%%% | 2000 | %%%% | %%%%
+ 
+4a) F -> H -> I car mois coutant
+ 
+4b)I = 15
+   J = 6
+   K = 8
+   L = 11
+   
+4c)H
+
+Exercice 2 :
+
+1a)192.168.1.0
+
+1b)192.168.1.255
+
+1c)2^8-2=256
+
+1d)192.168.1.56
+
+2a)192.168.1.1 -> SW1 -> Routeur A -> Routeur E -> Routeur D -> SW4 -> 192.168.4.2
+   aedaced
+   acfd
+   abced
+   abcfd
+
+2b)Si il y a une panne , il y a d'autres routes
