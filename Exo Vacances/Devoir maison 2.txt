@@ -8,9 +8,9 @@ Exercice 1:
 
 2b)Routage 2 .png
 
-3)%%%% | %%%% |   1  | %%%%
-  %%%% | 2000 | %%%% | %%%%
- 
+3)  100kbps  |  500kbps |   1kbps  | 100Mbps
+     1000    |   2000   |    10    |    1
+	 
 4a) F -> H -> I car mois coutant
  
 4b)I = 15
@@ -37,3 +37,57 @@ Exercice 2 :
    abcfd
 
 2b)Si il y a une panne , il y a d'autres routes
+
+3a)
+__________________________
+|        Routeur A       |
+|Destination | Passe par |
+|	  B		 |     B	 |
+|	  C		 |     C	 |
+|	  D		 |     E	 |
+|	  E		 |     C	 |
+|	  F		 |     C	 |
+--------------------------
+
+3b)B -> C -> E -> D
+
+3c)
+__________________________
+|        Routeur A       |
+|Destination | Passe par |
+|	  B		 |     B	 |
+|	  C		 |     C	 |
+|	  D		 |     E	 |
+|	  E		 |     C	 |
+|	  F		 |     C	 |
+--------------------------
+
+__________________________
+|        Routeur B       |
+|Destination | Passe par |
+|	  A		 |     A	 |
+|	  C		 |     A	 |
+|	  D		 |     A	 |
+|	  E		 |     A	 |
+|	  F		 |     A	 |
+--------------------------
+
+__________________________
+|        Routeur C       |
+|Destination | Passe par |
+|	  A		 |     A	 |
+|	  B		 |     A	 |
+|	  D		 |     E	 |
+|	  E		 |     E	 |
+|	  F		 |     F	 |
+--------------------------
+
+3d) B -> A -> C -> F -> D
+
+4a)Ethernet = 10^8/10^7= Cout de 10
+   Fast_Ethernet = 10^8/10^8 = Cout de 1
+   Fibre = 10^8/10^9 = Cout de 0.1
+   
+4b)Routage2_2.png
+
+4c)D -> 
