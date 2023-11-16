@@ -30,11 +30,12 @@ def parentheses(txt):
         if txt[i] == "(":
             p.empiler("(")
         if txt[i] == ")":
-            p.depiler
-    if p.estVide() == False:
-        return "False"
+            p.depiler()
+    if p.estVide() == True:
+        return "True"
     else:
-        return"True"
+        return"False"
 
-parentheses("())))()()()()()(")
+print(parentheses("(3+2)+5*(2+8)"))
+print(parentheses("(3+2)+5*(2+8"))
 
