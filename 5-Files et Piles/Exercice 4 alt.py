@@ -25,20 +25,6 @@ class Pile:
         if not self.estVide():
             return self.pile[-1]
 
-def calculer(a,b,op):
-    if op=='+':
-        resultat=a+b
-    elif op=='-':
-        resultat=a-b
-    elif op=='*':
-        resultat=a*b
-    elif op=='/':
-        if a!=0:
-            resultat=a/b
-        else:
-            print("erreur division par zéro")
-    return resultat
-
 p=Pile()
 def polonaise(txt):
     for i in range (len(txt)):
