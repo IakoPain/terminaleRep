@@ -49,12 +49,11 @@ def choixGenre():
     print("4 Aventure")
     numeroGenre=input("Votre choix de film ?")
     genre=""
-    # A Compléter
 
-#fonction requete Affichage de tous les films par ordre décroissant de durée
+#fonction requete Affichage de tous les films par ordre décroissant de durée            [TEMPLATE ICI][TEMPLATE ICI][TEMPLATE ICI][TEMPLATE ICI][TEMPLATE ICI]
 def afficheFilmsDesc():
-    requete=""
-    # A Compléter
+    requete="select titre,duree,genre from film order by duree desc;"
+    selectRequete(requete)
 
 #fonction requete Affichage des les films par genre
 def afficheFilmsGenre():
@@ -90,6 +89,15 @@ while menu!='q':
     print("q : Quitter")
     print("------------------------------------------------------------")
     menu=input("Votre choix ?")
-    # A Compléter
-
+    if menu == "1":
+        afficheFilmsDesc()
+    elif menu == "2":
+        afficheFilmsGenre()
+    elif menu == "3":
+        afficheFilmsDuree()
+    elif menu == "4":
+        afficheFilmsDesc()
+    elif menu == "5":
+        afficheFilmsDesc()
+    print("Programme fini")
 
