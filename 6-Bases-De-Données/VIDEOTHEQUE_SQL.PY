@@ -49,16 +49,28 @@ def choixGenre():
     print("4 Aventure")
     numeroGenre=input("Votre choix de film ?")
     genre=""
+    if numeroGenre == "1":
+        genre = "Science-fiction"
+    elif numeroGenre == "2":
+        genre = "Comedie"
+    elif numeroGenre == "3":
+        genre = "Policier"
+    elif numeroGenre == "4":
+        genre = "Aventure"
+    return genre
 
-#fonction requete Affichage de tous les films par ordre décroissant de durée            [TEMPLATE ICI][TEMPLATE ICI][TEMPLATE ICI][TEMPLATE ICI][TEMPLATE ICI]
+
+
+#fonction requete Affichage de tous les films par ordre décroissant de durée
 def afficheFilmsDesc():
     requete="select titre,duree,genre from film order by duree desc;"
     selectRequete(requete)
 
 #fonction requete Affichage des les films par genre
 def afficheFilmsGenre():
-    # A Compléter
-    genre=""
+    genre=choixGenre()
+    requete="select titre,duree,genre from film where genre='{}';".format(genre)
+    selectRequete(requete)
 
 #fonction requete Liste tous les films d’une durée supérieur à une valeur
 def afficheFilmsDuree():
