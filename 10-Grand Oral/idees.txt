@@ -1,0 +1,6 @@
+-comment les graphes peuvent aider a cartographier un
+ endroit et retourner a un point rapidement
+ 
+-Le codage et le stockage des données  
+
+-comment l'aléatoire était-il fait et comment pouvait-il etre manipulé
