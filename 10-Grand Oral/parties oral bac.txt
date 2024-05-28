@@ -2,7 +2,7 @@
 |            NSI             |
 \----------------------------/
 
-L'évolution de l'aléatoire
+> L'évolution de l'aléatoire
 
 Qu'est ce que l'aléatoire
 Comment l'aléatoire est fait
@@ -13,4 +13,4 @@ Le futur de l'aléatoire
 |           Maths            |
 \----------------------------/
 
-Les probabilités au cours du temps
+-> Les probabilités au cours du temps
