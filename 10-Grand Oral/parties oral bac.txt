@@ -2,7 +2,7 @@
 |            NSI             |
 \----------------------------/
 
--> L'aléatoire en informatique
+-> L'aléatoire existe-il vraiment en informatique ?
 
 Qu'est ce que l'aléatoire
 Comment l'aléatoire est fait
