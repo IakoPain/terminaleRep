@@ -13,9 +13,8 @@ Le futur de l'aléatoire
 |           Maths            |
 \----------------------------/
 
--> Les probabilités au cours du temps
+-> Pourquoi les casinos gagnent toujours ?
 
-Qu'est ce que sont les probabilités
-Cmment sont elles utilisées
-Lien avec la NSI
+
+Lien avec la NSI (probabilitées trompeuses)
 
