@@ -15,6 +15,7 @@ Le futur de l'aléatoire
 
 -> Pourquoi les casinos gagnent toujours ?
 
-
-Lien avec la NSI (probabilitées trompeuses)
+Probabilités (exemple roulette)
+Répétition des probas
+Lien avec la NSI (probabilitées trompeuses(réel / programmé(exemple avec un dé virtuel pipé)))
 
