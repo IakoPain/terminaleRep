@@ -12,6 +12,7 @@ Qu'est ce que l'aléatoire , comment est il fait ?
      Utilisation de multiples valeurs complexes pour rendre compliqué de predire cet aléatoire
 
 Comment il est utilisé
+-> Il est utilisé notament pour générer des mots de passe sécurisés , utilisant une suite longue de charactères n'ayant pas de sens , rendant le brute force impossible
 ->
 
 Les défauts de l'aléatoire
