@@ -5,17 +5,24 @@
 --> L'aléatoire existe-il vraiment en informatique ?
 
 
-Qu'est ce que l'aléatoire
-->Succession de calculs a partir de données 
-
-Comment l'aléatoire est fait (défauts etc)
-->
+Qu'est ce que l'aléatoire , comment est il fait ?
+->Succession de calculs a partir de données
+  -> résultats récupérés par les systèmes(?) en ayant besoin
+  -> Calculs a partir de l'UNIX ou encore grace a l'horloge interne , ou la valeur de combien de temps l'appareil est il allumé etc
+     Utilisation de multiples valeurs complexes pour rendre compliqué de predire cet aléatoire
 
 Comment il est utilisé
 ->
 
+Les défauts de l'aléatoire
+-> L'aléatoire est fondamentalement prédictible
+  ->il suffit de refaire les calculs a l'envers pour savaoir comment il est fait
+  -> on peut ainci refaire les calculs parallélement a l'original ou en avance de celui ci pour pouvoir le prédire
+    -> Dangereux car :
+  ->
+
 Le futur de l'aléatoire
-->
+-> Utilisations de phénomènes naturels complexes , relevés métérologiques , spaciaux (ondes cosmiques), lampe a lave (google utilise ça (verif.))
 
 /----------------------------\
 |           Maths            |
