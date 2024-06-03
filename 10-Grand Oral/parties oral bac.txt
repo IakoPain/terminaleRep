@@ -12,14 +12,17 @@ Qu'est ce que l'aléatoire , comment est il fait ?
      Utilisation de multiples valeurs complexes pour rendre compliqué de predire cet aléatoire
 
 Comment il est utilisé
--> Il est utilisé notament pour générer des mots de passe sécurisés , utilisant une suite longue de charactères n'ayant pas de sens , rendant le brute force impossible
+-> Il est utilisé notament pour générer des mots de passe sécurisés , utilisant une suite longue de charactères n'ayant pas de sens , 
+   rendant le brute force impossible
 ->
 
 Les défauts de l'aléatoire
 -> L'aléatoire est fondamentalement prédictible
   ->il suffit de refaire les calculs a l'envers pour savaoir comment il est fait
   -> on peut ainci refaire les calculs parallélement a l'original ou en avance de celui ci pour pouvoir le prédire
-    -> Dangereux car :
+    -> Dangereux car : Chiffrement des données utilisant des clefs de déchiffrement
+        -> si celles ci peuvent etre regénérées , alors l'email n'est pas sécurisé , pouvant compromettre l'intégrité de celui ci 
+           peut aussi amener a une fuite de données
   ->
 
 Le futur de l'aléatoire
@@ -40,7 +43,6 @@ Répétition des probas
 
 Lien avec la NSI (probabilitées trompeuses(réel / programmé(exemple avec un dé virtuel pipé)))
 ->
-
 
 
 
