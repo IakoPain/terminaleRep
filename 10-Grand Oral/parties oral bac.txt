@@ -23,7 +23,8 @@ Les défauts de l'aléatoire
     -> Dangereux car : Chiffrement des données utilisant des clefs de déchiffrement
         -> si celles ci peuvent etre regénérées , alors l'email n'est pas sécurisé , pouvant compromettre l'intégrité de celui ci 
            peut aussi amener a une fuite de données
-  ->
+  -> une autre façon de prédire celui ci est si plusieurs programmes(?) utilisent une seule et meme valeur d'aléatoire
+      -> Comprendre comment un programme(?) utilise celui ci et il sera possible de préduire d'autres résultats de d'autres programmes(?)
 
 Le futur de l'aléatoire
 -> Utilisations de phénomènes naturels complexes , relevés métérologiques , spaciaux (ondes cosmiques), lampe a lave (google utilise ça (verif.))
