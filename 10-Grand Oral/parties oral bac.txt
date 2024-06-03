@@ -14,7 +14,8 @@ Qu'est ce que l'aléatoire , comment est il fait ?
 Comment il est utilisé
 -> Il est utilisé notament pour générer des mots de passe sécurisés , utilisant une suite longue de charactères n'ayant pas de sens , 
    rendant le brute force impossible
-->
+-> Il est aussi utilisé dans les jeux ou le hazard y est necessaire comme les casinos (machines a sous avec un écran la )
+   ou encore les jeux videos (génération de terrain , apparition d'objets , déplacement de particules) 
 
 Les défauts de l'aléatoire
 -> L'aléatoire est fondamentalement prédictible
@@ -25,6 +26,8 @@ Les défauts de l'aléatoire
            peut aussi amener a une fuite de données
   -> une autre façon de prédire celui ci est si plusieurs programmes(?) utilisent une seule et meme valeur d'aléatoire
       -> Comprendre comment un programme(?) utilise celui ci et il sera possible de préduire d'autres résultats de d'autres programmes(?)
+         ou encore manipuler un programme pour avancer dans lmes calculs de la valeur si elle se réurilise elle meme(ex : mario 64 ,     
+         manipulation avec les particules de poussière que fait mario quand il marche)
 
 Le futur de l'aléatoire
 -> Utilisations de phénomènes naturels complexes , relevés métérologiques , spaciaux (ondes cosmiques), lampe a lave (google utilise ça (verif.))
