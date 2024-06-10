@@ -30,7 +30,7 @@ Les défauts de l'aléatoire
          manipulation avec les particules de poussière que fait mario quand il marche)
 
 Le futur de l'aléatoire
--> Utilisations de phénomènes naturels complexes , relevés métérologiques , spaciaux (ondes cosmiques), lampe a lave 
+-> Utilisations de phénomènes naturels complexes (courant marins ,temperature du sol , séismes ...) , relevés métérologiques(vent , pression atmospherique, qualité de l'air ... )  , spaciaux (ondes cosmiques), ou encore des lampes a lave ayant un comportement imprevisible 
    (google utilise ça (verif.))
 
 
