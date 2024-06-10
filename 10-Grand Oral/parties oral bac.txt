@@ -41,14 +41,19 @@ Le futur de l'aléatoire
 --> Pourquoi les casinos gagnent toujours ?
 
 
-Probabilités (exemple roulette)
-->
+Probabilités (exemple roulette européenne)
+-> Probabilité de gagner est de 1/37 pour numero plein , 18/37 pour rouge ou noir et pair ou impair et manque ou passe et 12/37 pour douzaine
+  ->Toutes ces probabilitées on done une chance inférieure a 50% d'être gagnantes
 
 Répétition des probas
 ->
 
 Lien avec la NSI (probabilitées trompeuses(réel / programmé(exemple avec un dé virtuel pipé)))
 ->
+
+
+
+
 
 
 
