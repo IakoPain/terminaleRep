@@ -51,6 +51,7 @@ Répétition des probabilitées
      Σ f(x)=f*1/37 
      1
       -> Plus on joue , plus la probabilité de gagner ce que l'on a perdu diminue donc
+-> [AJOUTER LA SOMME PERDUE EN MOYENNE A CHAUQE PARTEI]
 
 Lien avec la NSI (probabilitées trompeuses(réel / programmé(exemple avec un dé virtuel pipé)))
 ->Les Casinos n'utilisent pas que du matériel physique mais aussi du matériel éléectronique , comme les machines a sous 
