@@ -27,3 +27,32 @@ Les défauts de l'aléatoire
 Le futur de l'aléatoire
 -> Utilisations de phénomènes naturels complexes (courant marins ,temperature du sol , séismes ...) , relevés métérologiques(vent , pression atmospherique, qualité de l'air ... )  , spaciaux (ondes cosmiques), ou encore des lampes a lave ayant un comportement imprevisible 
    (google utilise ça (verif.))
+
+/----------------------------\
+|           Maths            |
+\----------------------------/
+
+--> Pourquoi les casinos gagnent toujours ?
+
+
+Probabilités (exemple roulette européenne)
+-> Probabilité de gagner est de 1/37 pour numero plein , 18/37 pour rouge ou noir et pair ou impair et manque ou passe et 12/37 pour douzaine
+  ->Toutes ces probabilitées on done une chance inférieure a 50% d'être gagnantes
+
+Répétition des probabilitées
+-> Dans le cas ou plusieurs parties sont jouées , nous avons donc affaire a une répétition d'épreuves indépendantes 
+  -> x
+     Σ f(x)=f*1/37 
+     1
+      -> Plus on joue , plus la probabilité de gagner ce que l'on a perdu diminue donc
+-> Calcul esperence : exemple roulette 1 nombre -> mise 100€
+   E(X)=0€*36/37+200€*1/37=5.37€
+on perd environ 5€ par partie pour une mise de 100€
+
+Lien avec la NSI (probabilitées trompeuses(réel / programmé(exemple avec un dé virtuel pipé)))
+->Les Casinos n'utilisent pas que du matériel physique mais aussi du matériel éléectronique , comme les machines a sous 
+  ->La probabilité de gagner a celle-ci ne sont pas aussi claires que pour la roulette , les probabilitées sont cahcées et peuvent etre manipulées par le propriétaire du casino pour qu'il soit presque impossible d'avoir le jackpot
+  ->elle peuvent etre aussi disuasives , faire le parallèle avec un object réel comme un dé a 6 faces mais coddée pour que les faces ne soient pas toutes 1/6 , grace notament a un randint() plus grand
+
+
+
