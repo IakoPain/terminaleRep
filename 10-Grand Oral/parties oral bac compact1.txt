@@ -1,0 +1,29 @@
+/----------------------------\
+|            NSI             |
+\----------------------------/
+
+--> L'aléatoire existe-il vraiment en informatique ?
+
+Qu'est ce que l'aléatoire , comment est il fait ?
+->Succession de calculs a partir de données , exemple -> UNIX , temps depuis le démarage
+->Utilisation de multiples valeurs complexes pour rendre compliqué de predire cet aléatoire
+
+Comment il est utilisé
+-> generation de mot de passe (longue suite de caratctère -> X brute force)
+->casino (machine a sous) ou jeux videos (generation de terrain , objets , particules)
+
+Les défauts de l'aléatoire
+->predictible
+-> calcusl a lenvers
+->le predire 
+
+-> danger car : clefs chiffrement email régénrérées
+->email intercepté , il peut etre décrypté , compromettre son intégrité ou fuite de données
+
+-> prédit si une valeur de RNG est utilisé pr plusieurs chose , si une dentre elle est facile 
+   a comprendre alors on peut comprendre les autres , pouvant etre plus dangereuses ou encore le 
+   manipuler
+   
+Le futur de l'aléatoire
+-> Utilisations de phénomènes naturels complexes (courant marins ,temperature du sol , séismes ...) , relevés métérologiques(vent , pression atmospherique, qualité de l'air ... )  , spaciaux (ondes cosmiques), ou encore des lampes a lave ayant un comportement imprevisible 
+   (google utilise ça (verif.))
